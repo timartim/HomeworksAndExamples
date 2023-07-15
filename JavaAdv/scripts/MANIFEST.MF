@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Kornilev Artemii
+Main-Class: info.kgeorgiy.ja.kornilev.implementor.Implementor
+Class-Path: ../../tests/artifacts/info.kgeorgiy.java.advanced.implementor.jar
