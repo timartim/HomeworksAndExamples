@@ -1,12 +1,11 @@
 # HomeworksAndExamples
 Решения домашних заданий и конспекты
 ## Решения домашних работ по Фронтэнду
-###[1]()
-###[Верстка]()
-###[Магический Калькулятор]()
-###[Прототипы]()
-###[Ассинхронность]()
-###[Оживление резюме]()
+### [1](https://github.com/timartim/HomeworksAndExamples/blob/main/frontend/1.js)
+### [Верстка](https://github.com/timartim/HomeworksAndExamples/blob/main/frontend/rezume.html)
+### [Прототипы](https://github.com/timartim/HomeworksAndExamples/blob/main/frontend/prototype.js)
+### [Ассинхронность](https://github.com/timartim/HomeworksAndExamples/blob/main/frontend/crawler.js)
+### [Оживление резюме](https://github.com/timartim/HomeworksAndExamples/blob/main/frontend/liverezume.html)
 ## Решения домашних работ по iOS
 ### [Парсер](https://github.com/timartim/HomeworksAndExamples/tree/main/iOS/parser/HW1Ios.playground)
 ### [Приложение](https://github.com/timartim/HomeworksAndExamples/tree/main/iOS/app)
