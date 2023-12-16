@@ -1,5 +1,12 @@
 # HomeworksAndExamples
 Решения домашних заданий и конспекты
+## Решения домашних работ по Фронтэнду
+###[1]()
+###[Верстка]()
+###[Магический Калькулятор]()
+###[Прототипы]()
+###[Ассинхронность]()
+###[Оживление резюме]()
 ## Решения домашних работ по iOS
 ### [Парсер](https://github.com/timartim/HomeworksAndExamples/tree/main/iOS/parser/HW1Ios.playground)
 ### [Приложение](https://github.com/timartim/HomeworksAndExamples/tree/main/iOS/app)
